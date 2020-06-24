@@ -22,3 +22,24 @@ if revstr == s: #if the string entered is the string reversed it's a palidrome
 else:
   print("This isn't a palindrome.")
 score = score - 100
+
+# Simple String Palindrome
+
+#string = input("enter the string:")
+#rev_string = string[::-1]
+#if string == rev_string:
+#  print("string is palindrome")
+#else:
+#  print("string is not palindrome") 
+
+# Simple Integer Palindrome
+ #no slice method for the integer number
+
+#number = int(input("enter the number:"))
+#string = str(number)
+#rev_string = string[::-1]
+#print ("reversed string:",rev_string)
+#if string == rev_string:
+#  print("number is palindrome")
+#else:
+#  print("number is not palindrome")
